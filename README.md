@@ -3,8 +3,6 @@
 A complete 3D architectural project featuring a traditional house with detailed interior rooms. This project showcases low-poly modeling, asset creation, and baked lighting environments.
 
 ## Interior Gallery
-<img width="1920" height="1080" alt="bathroom" src="https://github.com/user-attachments/assets/c0fbead3-1797-463d-a59a-b2919a8cb76a" />
-
 
 <img width="1920" height="1080" alt="house" src="https://github.com/user-attachments/assets/a6e31aa2-65a3-48bb-836f-6eccfb83cb37" />
 <img width="1920" height="1080" alt="Room" src="https://github.com/user-attachments/assets/c93a9d87-f61a-48f4-8332-38aa30c30eaf" />
