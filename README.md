@@ -14,4 +14,4 @@ A complete 3D architectural project featuring a traditional house with detailed 
 ## Project Details
 - **Assets Created:** Traditional clay pots, vintage TV, lantern, bed, and furniture.
 - **Software:** Blender 4.0
-- **Format:** .glb (Optimized for Web/Three.js)
+- **Format:** .glb 
